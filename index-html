@@ -42,7 +42,6 @@
             if(!code) return alert('Enter a code mf2');
             // FIXED Betway format 2026
             window.location.href = "https://www.betway.co.za/sports/betslip?betslipid=" + code;
-        }
     </script>
 </body>
 </html>
